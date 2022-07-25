@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyAgenda</string>
+    <string name="List">List</string>
+    <string name="New">New</string>
+    <string name="Update">Update</string>
+    <string name="Delete">Delete</string>
+    <string name="Name">Name</string>
+    <string name="Surname">Surname</string>
+    <string name="Email">Email</string>
+    <string name="PhoneNumber">Phone Number</string>
+    <string name="Add">Add</string>
+</resources>

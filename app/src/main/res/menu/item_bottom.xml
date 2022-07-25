@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/opList"
+        android:icon="@drawable/ic_baseline_list_alt_24"
+        android:title="@string/List" />
+    <item
+        android:id="@+id/opNew"
+        android:icon="@drawable/ic_baseline_new_24"
+        android:title="@string/New" />
+    <item
+        android:id="@+id/opUpdate"
+        android:icon="@drawable/ic_baseline_update_24"
+        android:title="@string/Update" />
+    <item
+        android:id="@+id/opDelete"
+        android:icon="@drawable/ic_baseline_delete_24"
+        android:title="@string/Delete" />
+</menu>
