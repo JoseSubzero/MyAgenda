@@ -8,5 +8,8 @@
     <string name="Surname">Surname</string>
     <string name="Email">Email</string>
     <string name="PhoneNumber">Phone Number</string>
-    <string name="Add">Add</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnDelete">delete</string>
+    <string name="btnUpdate">update</string>
+    <string name="ID">ID</string>
 </resources>

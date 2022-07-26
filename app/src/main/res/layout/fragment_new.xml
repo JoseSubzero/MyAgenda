@@ -4,11 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".NewFragment" >
+    android:layout_margin="20dp"
+    android:padding="20dp"
+    tools:context=".NewFragment">
 
     <androidx.cardview.widget.CardView
         android:layout_width="409dp"
         android:layout_height="350dp"
+        android:layout_margin="20dp"
+        android:padding="20dp"
         app:cardCornerRadius="50dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -79,7 +83,7 @@
                 android:id="@+id/btnSave"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/Add"
+                android:text="@string/btnAdd"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
